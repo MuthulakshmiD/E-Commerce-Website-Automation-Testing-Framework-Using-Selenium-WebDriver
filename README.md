@@ -448,3 +448,13 @@ By following the Page Object Model design pattern, the framework delivers:
 - Reusable components
 - Easy test expansion
 - Improved automation efficiency
+
+
+
+
+
+https://github.com/user-attachments/assets/0ad74eed-36b6-48c0-b11c-376bda6fa834
+
+
+
+
